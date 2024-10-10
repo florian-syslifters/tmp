@@ -1,0 +1,41 @@
+HTTP/2 200 OK
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/octet-stream
+Etag: W/"59bfdb5123310467b86e4320b32206a5818c21c3c5ab13e41ee44aacb785bed8"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Xss-Protection: 1; mode=block
+X-Github-Request-Id: 2C36:178C5D:3A2DBD:3C2F0F:66F2BDF1
+Accept-Ranges: bytes
+Date: Tue, 24 Sep 2024 14:03:34 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230137-FRA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1727186615.647891,VS0,VE147
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-Id: 267c322d5f6299ae25d85621d744392ce805093b
+Expires: Tue, 24 Sep 2024 14:08:34 GMT
+Source-Age: 0
+Content-Length: 20540
+
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /MediaBox [ 0 0 100 100 ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /Parent 2 0 R /Resources << /Font << /F1 5 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Filter /FlateDecode /Length 63 >>
+stream
+xs
+á2W)â24P02PqáÒw3³Ò¸4Ü4B²¸\C¸ÒÁ#S¢T®4.
